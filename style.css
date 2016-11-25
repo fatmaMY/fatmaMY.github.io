@@ -1,0 +1,86 @@
+body {
+  background-color: #eee;
+}
+.wrapper {
+  width: 500px;
+  margin: 20px auto;
+  background: white;
+  padding: 20px;
+}
+#blue {
+  border: 1px solid #00BCE1;
+  background: #fff;
+  color: #00BCE1;
+  width: auto;
+  height: 40px;
+  margin: 1px 40px;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bolder;
+  font-size: 1.5em;
+  font-family: sans-serif;
+padding-top: 20px;
+}
+#signin {
+  border: 1px solid #00BCE1;
+  background: #00BCE1;
+  color: #fff;
+  width: 420px;
+  height: 60px;
+  margin: 1px 40px;
+  display: block;
+  font-size: 1.5em;
+  font-weight: bolder;
+  font-family: sans-serif;
+}
+#yellow {
+  border: 1px solid #ccc;
+  background: #FFFB9B;
+  width: 420px;
+  height: 60px;
+  margin: 1px 40px;
+  display: block;
+}
+  #forget {
+  color: #00BCE1;
+  text-decoration: none;
+  float: right;
+}
+h1,h2,h3,h4 {
+  text-indent: 40px;
+color: #606060;
+font-family: sans-serif;
+}
+.footer  {
+  width: auto;
+  background: #fff;
+  text-align: center;
+}
+.title {
+  text-align: center;
+}
+table {
+  display: inline-block;
+}
+th{
+  border: 0px;
+  width: 400px;
+  color: #606060;
+}
+th a {
+  color: #606060;
+}
+a {
+  color: #00BCE1;
+  text-decoration: none;
+}
+a:hover{
+  color: #282828;
+}
+#signin:hover {
+  background: #1C5D9E;
+}
+#blue:hover {
+  background: #B5FFFF;
+}
